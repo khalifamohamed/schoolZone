@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: School Zone Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/schoolZone
+Data file = C:\xampp\htdocs\schoolZone/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.xml
+Widget file = C:\xampp\htdocs\schoolZone/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.wie
+Customizer file = C:\xampp\htdocs\schoolZone/wp-content/uploads/rara-demo-pack/school-zone-demo-content/content/schoolzone.dat
+
+------
+Completed AJAX call number: 1
+
+
+------
+Completed AJAX call number: 2
+
+
+------
+Completed AJAX call number: 3
+
+
+------
+Completed AJAX call number: 4
+
+
+------
+Completed AJAX call number: 5
+
+
+------
+Completed AJAX call number: 6
+
+
+------
+Completed AJAX call number: 7
+
+
+------
+Completed AJAX call number: 8
+
+
+------
+Completed AJAX call number: 9
+
+
+------
+Completed AJAX call number: 10
+
+
+------
+Completed AJAX call number: 11
+[ERROR] Failed to import "Our Featured Courses" (Page)
+
+
+---Importing content---
+[ERROR] Failed to import "Everest Base Camp Trek" (Post)
+[WARNING] Could not find the post parent for "box-62867_1280" (post #190)
+[WARNING] Could not find the post parent for "africa-21787_1920" (post #201)
+
+Max execution time after content import = 300

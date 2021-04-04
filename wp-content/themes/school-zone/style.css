@@ -21,7 +21,7 @@ Underscores is distributed under the terms of the GNU GPL v2 or later.
 */
 
 a{
-    color: #79B530;
+    color: #828535;
 }
 
 .site-header.header-two .header-top .container:after{
@@ -129,7 +129,7 @@ a{
 }
 
 .site-header .social-networks li a{
-    color: #79B530;
+    color: #D7A449;
     -webkit-transition: ease 0.2s;
     -moz-transition: ease 0.2s;
     transition: ease 0.2s;
@@ -162,14 +162,14 @@ a{
 .site-branding .site-title a{
     font-size: 26px;
     line-height: 29px;
-    color: #79B530;
+    color: #D7A449;
 }
 
 /*.site-branding*/
 
 .site-header .apply-btn {
-    border: 2px solid #79B530;
-    color: #79B530;
+    border: 2px solid #D7A449;
+    color: #D7A449;
     padding: 15px 32px;
     font-size: 14px;
     line-height: 14px;
@@ -182,7 +182,7 @@ a{
 
 .site-header .apply-btn:hover, 
 .site-header .apply-btn:focus {
-    background: #79B530;
+    background: #D7A449;
     color: #fff;
 }
 
@@ -248,7 +248,7 @@ a{
 
 .site-header.header-two .info-box svg {
 	display: inline-block;
-	color: #79B530;
+	color: #D7A449;
 	font-size: 30px;
 	margin-right: 16px;
 	line-height: 32px;
@@ -266,7 +266,7 @@ a{
 }
 
 .site-header.header-two .info-box span a:hover {
-	color: #79B530;
+	color: #D7A449;
 }
 
 .site-header.header-two #mobile-header {
@@ -283,16 +283,16 @@ a{
 }
 
 .site-header .header-bottom{
-    background: #79B530;
+    background: #D7A449;
 }
 
 .main-navigation ul ul{
-    background: #79B530;
+    background: #D7A449;
 }
 
 .site-header.header-two .form-section .example form{
-    background: #79B530;
-    box-shadow: 0 1px 0 0 #79B530;
+    background: #D7A449;
+    box-shadow: 0 1px 0 0 #D7A449;
 }
 
 .banner{
@@ -348,8 +348,8 @@ a{
     font-size: 16px;
     line-height: 25px;
     color: #fff;
-    border: 2px solid #79B530;
-    background: #79B530;
+    border: 2px solid #D7A449;
+    background: #D7A449;
     text-transform: uppercase;
     display: inline-block;
     padding: 10px 23px;
@@ -387,7 +387,7 @@ a{
 .banner .banner-text .btn-holder .btn-view-service:focus{
     text-decoration: none;
     background: #fff;
-    color: #79B530;
+    color: #D7A449;
 }
 
 .video-banner .wp-custom-header {
@@ -452,8 +452,8 @@ a{
 }
 
 .featured-courses ul li .image-holder .description .learn-more{
-    border: 2px solid #79B530;
-    background: #79B530;
+    border: 2px solid #D7A449;
+    background: #D7A449;
     -webkit-transition: ease 0.2s;
     -moz-transition: ease 0.2s;
     transition: ease 0.2s;
@@ -462,23 +462,23 @@ a{
 .featured-courses ul li .image-holder .description .learn-more:hover,
 .featured-courses ul li .image-holder .description .learn-more:focus{
     background: none;
-    color: #79B530;
+    color: #D7A449;
 }
 
 .theme .theme-description .apply:hover,
 .theme .theme-description .apply:focus{
-    background: #79B530;
-    border-color: #79B530;
+    background: #D7A449;
+    border-color: #D7A449;
 }
 
 .choose-us .col h3 a:hover,
 .choose-us .col h3 a:focus{
-    color: #79B530;
+    color: #D7A449;
 }
 
 .latest-events .learn-more{
-    background: #79B530;
-    border: 2px solid #79B530;
+    background: #D7A449;
+    border: 2px solid #D7A449;
     -webkit-transition: ease 0.2s;
     -moz-transition: ease 0.2s;
     transition: ease 0.2s;
@@ -490,15 +490,15 @@ a{
 }
 
 .search-section{
-    background: #79B530;
+    background: #D7A449;
 }
 
 .search-section form input[type="submit"]{
-    color: #79B530;
+    color: #D7A449;
 }
 
 #crumbs{
-    color: #79B530; 
+    color: #D7A449; 
 }
 
 #crumbs span:last-child .separator{
@@ -507,12 +507,12 @@ a{
 
 .widget-area .widget form input[type="submit"],
 .page-header form input[type="submit"]{
-    background-color: #79B530;
+    background-color: #D7A449;
 }
 
 #primary .read-more{
-    border: 2px solid #79B530;
-    background: #79B530;
+    border: 2px solid #D7A449;
+    background: #D7A449;
     -webkit-transition: ease 0.2s;
     -moz-transition: ease 0.2s;
     transition: ease 0.2s;
@@ -521,23 +521,23 @@ a{
 #primary .read-more:hover,
 #primary .read-more:focus{
     background: none;
-    color: #79B530;
+    color: #D7A449;
 }
 
 .navigation.pagination .page-numbers.current,
 .navigation.pagination .page-numbers:hover,
 .navigation.pagination .page-numbers:focus{
-    border-color: #79B530;
-    color: #79B530;
+    border-color: #D7A449;
+    color: #D7A449;
 }
 
 .error404 .not-found span{
-    color: #79B530;
+    color: #D7A449;
 }
 
 .error404 .homepage{
-    background: #79B530;
-    border: 2px solid #79B530;
+    background: #D7A449;
+    border: 2px solid #D7A449;
     -webkit-transition: ease 0.2s;
     -moz-transition: ease 0.2s;
     transition: ease 0.2s;
@@ -546,11 +546,11 @@ a{
 .error404 .homepage:hover,
 .error404 .homepage:focus{
     background: none;
-    color: #79B530;
+    color: #D7A449;
 }
 
 .welcome-note .col h3 {
-    color: #79B530;
+    color: #D7A449;
 }
 
 #mobile-header-2 {
@@ -584,13 +584,13 @@ a{
     }
 
     .mobile-header .apply-btn a{
-        border-color: #79B530;
-        color: #79B530;
+        border-color: #D7A449;
+        color: #D7A449;
     }
 
     .mobile-header .apply-btn a:hover,
     .mobile-header .apply-btn a:focus{
-        background: #79B530;
+        background: #D7A449;
     }
 
     .mobile-menu .main-navigation ul li a:hover,
@@ -611,13 +611,13 @@ a{
     .mobile-menu .secondary-nav ul .current_page_ancestor > a,
     .mobile-menu .contact-info a:hover,
     .mobile-menu .contact-info a:focus{
-        color: #79B530;
+        color: #D7A449;
     }
 
     .mobile-menu .social-networks li a:hover,
     .mobile-menu .social-networks li a:focus{
-        background: #79B530;
-        border-color: #79B530;
+        background: #D7A449;
+        border-color: #D7A449;
     }
 }
 

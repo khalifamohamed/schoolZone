@@ -52,11 +52,6 @@
                         echo  esc_html__( 'Copyright &copy;', 'school-zone' ) . date_i18n( esc_html__( 'Y', 'school-zone' ) ); 
                         echo ' <a href="' . esc_url( home_url( '/' ) ) . '">' . esc_html( get_bloginfo( 'name' ) ) . '</a>.</span>';
                     }?>
-    			    <span class="by">
-                        <?php echo esc_html__( 'School Zone | Developed By', 'school-zone' ); ?>
-                        <a href="<?php echo esc_url( 'https://rarathemes.com/' ); ?>" rel="nofollow" target="_blank"><?php esc_html_e( 'Rara Theme', 'school-zone' ); ?></a>.
-                        <?php printf( esc_html__( 'Powered by %s.', 'school-zone' ), '<a href="'. esc_url( __( 'https://wordpress.org/', 'school-zone' ) ) .'" target="_blank">WordPress</a>' ); ?>
-                    </span>
                     <?php 
                         if ( function_exists( 'the_privacy_policy_link' ) ) {
                             the_privacy_policy_link();
